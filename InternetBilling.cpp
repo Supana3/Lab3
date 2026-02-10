@@ -10,7 +10,7 @@ int main() {
     cout << "Select a subscription package (A, B, or C): ";
     cin >> package;     // this user for package choice
 
-    // Ask user for hours used
+    // this ask user for hours used
     cout << "Enter the number of hours used: ";
     cin >> hours;
 
